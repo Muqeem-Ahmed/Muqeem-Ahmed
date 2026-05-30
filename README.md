@@ -1,7 +1,7 @@
 # Hi, I'm Muqeem Ahmed 👋
 
 ### Data Science Undergraduate | Aspiring Data Scientist
-I am a 3rd-year Data Science student (6th Semester) at the GIK Institute. My academic journey is focused on building a robust foundation in analytics and computational sciences, with a current emphasis on leveraging Deep Learning to solve real-world challenges in healthcare and automation.
+I am a final year BSc. Data Science student at the GIK Institute. My academic journey is focused on building a robust foundation in analytics and computational sciences, with a current emphasis on leveraging Deep Learning to solve real-world challenges in healthcare and automation.
 
 ---
 
